@@ -61,10 +61,19 @@ A new Flutter application for live location tracker.
 </details>
 
 ## 📱 Demo
+<p align="center">
+<img src="https://github.com/Insha-Siddiquii/flutter_maps_location_tracker/blob/master/demo/1.png" width ="250"> <img src="https://github.com/Insha-Siddiquii/flutter_maps_location_tracker/blob/master/demo/2.png" width ="250"> 
+ </p>
+ <p align="center">
+<img src="https://github.com/Insha-Siddiquii/flutter_maps_location_tracker/blob/master/demo/3.png" width ="250"> <img src="https://github.com/Insha-Siddiquii/flutter_maps_location_tracker/blob/master/demo/submit.png" width ="250">
+</p>
 
-<img src="" width ="250"> <img src="" width ="250"> 
-<img src="" width ="250"> <img src="" width ="250"> 
-<img src="" width ="250"> 
-<img src="" width ="250"> <img src="" width ="250">
+## 📱 Live Tracking Demo
+<p align="center">
+<img src="https://github.com/Insha-Siddiquii/flutter_maps_location_tracker/blob/master/demo/MapsLabels.gif" width ="250"> 
+</p>
+<p align="center">
+<img src="https://github.com/Insha-Siddiquii/flutter_maps_location_tracker/blob/master/demo/AtoB.gif" width ="250"> <img src="https://github.com/Insha-Siddiquii/flutter_maps_location_tracker/blob/master/demo/BtoC.gif" width ="250">
+ </p>
   
 
